@@ -1,7 +1,7 @@
 Generic single-database configuration.
 
 Setting .env : 
-    STRAPI_HOST=http://146.59.225.32
+    STRAPI_HOST=xxx
     JWT_SECRET_KEY=xxx
     DATABASE_URL=postgresql://tibo:whitebeard@localhost:3300/HETIC
 
